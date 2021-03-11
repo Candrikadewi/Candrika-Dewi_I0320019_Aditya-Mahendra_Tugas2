@@ -7,11 +7,11 @@ print("Luas dan keliling lingkaran")
 r = float(input("Masukkan nilai jari-jari: "))
 
 #menghitung luas lingkaran
-luas_lingkaran = 3.14 * (r ** 2)
+luas_lingkaran  = 3.14 * (r ** 2)
 
 #menghitung keliling lingkaran
 keliling_lingkaran = 2* 3.14 * r
 
 #menampilkan hasil perhitungan kelayar
-print("luas lingkaran: ", luas_lingkaran)
-print("Keliling Lingkaran: ", keliling_lingkaran)
+print("luas lingkaran:", luas_lingkaran)
+print("Keliling lingkaran: ", keliling_lingkaran)
