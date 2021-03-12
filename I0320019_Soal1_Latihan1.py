@@ -11,4 +11,4 @@ l = float(input("Masukkan lebar persegi panjang: "))
 Luas_persegi_panjang = p * l
 
 #menampilkan hasil perhitungan
-print(Luas_persegi_panjang)
+print("Luas Persegi Panjang:", Luas_persegi_panjang, "persegi")

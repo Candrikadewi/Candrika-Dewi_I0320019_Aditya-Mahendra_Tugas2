@@ -8,4 +8,4 @@ sisi = float(input("Masukkan nilai sisi kubus: "))
 luas_kubus = sisi ** 2
 
 #Menampilkan hasil perhitungan ke layar
-print(luas_kubus)
+print("Luas Kubus:", luas_kubus, "persegi")
